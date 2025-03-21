@@ -9,7 +9,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center">
           <div className="flex items-center space-x-2">
             <Bot className="h-8 w-8 text-[#0b1226]" />
-            <span className="text-xl font-bold text-gray-900">useaichatbots.com</span>
+            <span className="text-xl font-bold text-gray-900">useaichatbots</span>
           </div>
         </div>
       </nav>
