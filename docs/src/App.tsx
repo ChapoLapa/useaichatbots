@@ -32,7 +32,7 @@ function App() {
 
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6">
             <a 
-              href="mailto:contact@useaichatbots.com"
+              href="mailto:useaichatbots1@gmail.com"
               className="flex items-center bg-[#0b1226] text-white px-8 py-4 rounded-lg hover:bg-[#161f37] transition"
             >
               <Mail className="h-5 w-5 mr-2" />
